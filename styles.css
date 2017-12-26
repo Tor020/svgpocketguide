@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: #333;
+  background-color: #eee;
+}
+
+.container {
+  max-width: 50em;
+  margin: 0 auto;
+  background-color: #fff;
+}
+.container * {
+  line-height: 1.5;
+  margin: .5em 1em;
+}
